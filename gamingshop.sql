@@ -277,7 +277,7 @@ INSERT INTO `users` (`id`, `username`, `email`, `password`, `role`, `created_at`
 (5, 'amin', NULL, '$2a$10$3621U4rXyywGuAlsc6RpoOv84yLGwiOgf9/3dVN3psUxcM437U.w2', 'CLIENT', '2026-04-19 13:38:02');
 
 --
--- Indexes for dumped tables
+-- Indexes for dumped tables application.properties add dokerfile sql22260547Aziz
 --
 
 --
